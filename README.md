@@ -66,7 +66,7 @@ Simulink and MATLAB Multibody models for snake-like robot locomotion with CPG co
 蛇形机器人 Simscape Multibody 模型  
 中央パターン発生器 (CPG) に基づくヘビ型ロボットの Simscape Multibody モデル  
 
-![Snake Robot Multibody Model](docs/snake-robot.png)
+![Snake Robot Model](docs/snake-robot.png)
 
 ---
 
@@ -74,8 +74,7 @@ Simulink and MATLAB Multibody models for snake-like robot locomotion with CPG co
 线性拓扑结构耦合的 Hopf 振荡器（作为 CPG 控制器）  
 線形トポロジーで結合された Hopf オシレーター（CPG コントローラ）  
 
-![Coupled Hopf Oscillators](docs/Coupled Hopf Oscillator_Lineartopology.png)
-
+![Coupled Hopf Oscillator](docs/Coupled Hopf Oscillator_Lineartopology.png)
 ---
 
 ### 3. Single Hopf Oscillator in Simulink  
@@ -90,7 +89,7 @@ Simulink and MATLAB Multibody models for snake-like robot locomotion with CPG co
 整体系统结构图（CPG 控制 + Simscape Multibody + 环境交互）  
 全体システム構造図（CPG 制御 + Simscape Multibody + 環境相互作用）  
 
-![Overall Structure](docs/The Overview.png)
+![System Overview](docs/The Overview.png)
 
 ---
 
