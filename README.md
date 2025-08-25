@@ -8,7 +8,7 @@ Simulink and MATLAB Multibody models for snake-like robot locomotion with CPG co
 
 ---
 
-## 📌 Overview | 概要 | 项目简介
+## Overview | 概要 | 项目简介
 - **English**:  
   This repository focuses on the implementation of snake-like robot locomotion using Hopf Oscillator-based CPGs with linearly varying parameters.  
   The snake robot is modeled in **Simscape Multibody**, while the coupled Hopf Oscillators are implemented in **Simulink**.  
@@ -26,11 +26,11 @@ Simulink and MATLAB Multibody models for snake-like robot locomotion with CPG co
 
 ---
 
-## 📂 Repository Structure | リポジトリ構成 | 仓库结构
+## Repository Structure | リポジトリ構成 | 仓库结构
 
 ---
 
-## 🚀 How to Run | 実行方法 | 使用方法
+## How to Run | 実行方法 | 使用方法
 - **English**  
   1. Open MATLAB (R2021b or later recommended).  
   2. Add the repository to MATLAB path.  
@@ -60,7 +60,7 @@ Simulink and MATLAB Multibody models for snake-like robot locomotion with CPG co
 
 ---
 
-## 🖼 Model Diagrams | モデル図 | 模型示意图
+## Model Diagrams | モデル図 | 模型示意图
 
 ### 1. Snake-like Robot Simscape Multibody Model  
 蛇形机器人 Simscape Multibody 模型  
@@ -93,14 +93,14 @@ Simulink and MATLAB Multibody models for snake-like robot locomotion with CPG co
 
 ---
 
-## 🛠 Dependencies | 依存関係 | 依赖环境
+## Dependencies | 依存関係 | 依赖环境
 - MATLAB / Simulink  
 - Simscape Multibody  
 - (Optional) SolidWorks for CAD model import  
 
 ---
 
-## 📖 Future Work | 今後の課題 | 后续工作
+## Future Work | 今後の課題 | 后续工作
 - Extension to multi-joint (N-link) models  
 - PSO-based optimization of Hopf Oscillator parameters  
 - Integration with real-time robot experiments  
